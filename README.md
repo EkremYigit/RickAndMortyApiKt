@@ -1,0 +1,2 @@
+# RickAndMortyApiKt
+Kotlin mvvm project.
