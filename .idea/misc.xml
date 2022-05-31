@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../layout/custom_preview.xml" value="0.26145833333333335" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/drawable/fab_icon.xml" value="0.1905" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/drawable/ic_app_icon.xml" value="0.1905" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1905" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/drawable/ic_baseline_science_24.xml" value="0.1905" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/drawable/ic_lamp_24.xml" value="0.1905" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/drawable/ic_lamp_dark_24.xml" value="0.1905" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1905" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/drawable/placeholder.xml" value="0.132" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/layout/activity_main.xml" value="0.2634245187436677" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/layout/card_item.xml" value="0.146875" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/layout/fragment_blank.xml" value="0.2776268115942029" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/layout/fragment_detail.xml" value="0.2510131712259372" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/layout/fragment_list.xml" value="0.3500905797101449" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/layout/single_item.xml" value="0.2140625" />
+        <entry key="..\:/Android/ProjectTemplate/app/src/main/res/layout/tool_bar.xml" value="0.2875" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.2785" />
+        <entry key="app/src/main/res/drawable/corner_cut.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable/fab_icon.xml" value="0.2785" />
+        <entry key="app/src/main/res/drawable/ic_app_icon.xml" value="0.1165" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1455" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_dark_moon_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_lamp_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_lamp_dark_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/layout_bottom_nav.xml" value="0.116" />
+        <entry key="app/src/main/res/layout-v23/single_item.xml" value="0.23541666666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1734375" />
+        <entry key="app/src/main/res/layout/bottom_nav.xml" value="0.28541666666666665" />
+        <entry key="app/src/main/res/layout/bottom_navigation_container.xml" value="0.2074074074074074" />
+        <entry key="app/src/main/res/layout/card_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.20742753623188406" />
+        <entry key="app/src/main/res/layout/progress_dialog.xml" value="0.39473684210526316" />
+        <entry key="app/src/main/res/layout/single_item.xml" value="0.2796296296296296" />
+        <entry key="app/src/main/res/layout/tool_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.28541666666666665" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

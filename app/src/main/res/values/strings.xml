@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" formatted="true">Rick&amp;Morty</string>
+
+
+    <!-- Toolbar -->
+    <string name="toolbar_title" formatted="true">To-Do</string>
+    <string name="lamp">lamp</string>
+
+    <string name="singleItemImageTransitionName">imageView %1$s</string>
+    <string name="detailTransitionName" translatable="false">detailTransitionName</string>
+    <string name="contentDescription" translatable="false">Content Description</string>
+
+
+</resources>
